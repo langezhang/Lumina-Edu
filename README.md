@@ -2,6 +2,8 @@
 
 # Lumina-Edu
 
+**简体中文** | [English](README.en.md)
+
 **从课件到理解，让 AI 参与每一步学习。**
 
 An AI-assisted learning workspace for teachers and students.
@@ -114,6 +116,7 @@ npm run dev
 ```text
 Lumina-Edu/
 ├── README.md
+├── README.en.md                # English documentation
 └── lumina-edu/
     ├── src/
     │   ├── App.tsx                 # 应用入口与会话管理
